@@ -1,0 +1,42 @@
+.card_container{
+    width: 350px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 0px 4px 17px rgba(135, 135, 135, 0.11);
+    margin-bottom: 30px;
+}
+.card_container:hover{
+    box-shadow: 0px 4px 17px 6px rgba(135,135,135,0.2);
+}
+.card_image{
+    width: 124px;
+    height: 124px;
+    border-radius: 50%;
+    filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.25));
+}
+.image{
+    width: 124px;
+    height: 124px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+p{
+    margin-bottom: 5px;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 20px;
+}
+.mail{
+    font-size: 14px;
+    color: #ABABAB;
+}
+.city{
+    font-size: 14px;
+    color: #ABABAB;
+}

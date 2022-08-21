@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.user_context{
+    width: 90%;
+}
+
+.title{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.user_items{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

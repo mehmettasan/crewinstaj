@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Leanne Graham Bret",
+        "mail":"Sincere@april.biz",
+        "city":"Gwenborough",
+        "image":"profile1.png"
+    },
+    {
+        "name":"Ervin Howell",
+        "mail":"Shanna@melissa.tv",
+        "city":"Wisokyburgh",
+        "image":"profile2.png"
+    },
+    {
+        "name":"Clementine Bauch",
+        "mail":"Nathan@yesenia.net",
+        "city":"McKenziehaven",
+        "image":"profile3.png"
+    }, 
+    {
+        "name":"Patricia Lebsack",
+        "mail":"Julianne.OConner@kory.org",
+        "city":"South Elvis",
+        "image":"profile4.png"
+    },
+    {
+        "name":"Chelsey Dietrich",
+        "mail":"Lucio_Hettinger@annie.ca",
+        "city":"Roscoeview",
+        "image":"profile5.png"
+    },
+    {
+        "name":"Mrs. Dennis Schulist",
+        "mail":"Karley_Dach@jasper.info",
+        "city":"South Christy",
+        "image":"profile6.png"
+    },
+    {
+        "name":"Kurtis Weissnat",
+        "mail":"Telly.Hoeger@billy.biz",
+        "city":"Howemouth",
+        "image":"profile7.png"
+    },
+    {
+        "name":"Nicholas Runolfsdottir V",
+        "mail":"Sherwood@rosamond.me",
+        "city":"Aliyaview",
+        "image":"profile8.png"
+    }
+]

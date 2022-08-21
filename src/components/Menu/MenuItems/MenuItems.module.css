@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #7A7A7A;
+    padding-left: 10px;
+}
+.container_active{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #134E70;
+    padding-left: 10px;
+    background: rgba(19, 78, 112, 0.25);
+}
+
+.container:hover{
+    background: rgba(19, 78, 112, 0.25);
+}
+.title{
+    font-size: 16px;
+    margin-left: 10px;
+}
