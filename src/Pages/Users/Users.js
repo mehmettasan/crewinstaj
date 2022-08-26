@@ -6,7 +6,7 @@ import userData from "../../usersData.json";
 const Users = () => {
   return (
     <div className={styles.container}>
-        <div className={styles.user_context}>
+        <div className={styles.user_content}>
             <span className={styles.title}>Users</span>
             <div className={styles.user_items}>
                 {

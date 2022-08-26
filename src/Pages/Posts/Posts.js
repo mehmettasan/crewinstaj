@@ -6,7 +6,7 @@ import postData from "../../postData.json"
 const Posts = () => {
   return (
     <div className={styles.container}>
-      <div className={styles.post_context}>
+      <div className={styles.post_content}>
         <span className={styles.title}>Posts</span>
         {
           postData.map((item,index)=>{
